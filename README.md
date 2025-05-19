@@ -1,4 +1,4 @@
-# Microsoft Fabric Deployment Pipelines Lab
+# Microsoft Fabric Deployment Pipelines 
 
 This lab demonstrates how to implement deployment pipelines in Microsoft Fabric to automate content deployment across development, test, and production environments.
 
