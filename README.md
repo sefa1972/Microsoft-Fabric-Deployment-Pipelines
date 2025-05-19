@@ -68,7 +68,7 @@ This lab demonstrates how to implement deployment pipelines in Microsoft Fabric 
 2. Delete your deployment pipeline
    
 
-# 👤 Author: Sefa Öztürk
+### 👤 Author: Sefa Öztürk
 
 IT Intern | Azure Data Engineer (Ongoing)
 
