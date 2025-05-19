@@ -67,8 +67,12 @@ This lab demonstrates how to implement deployment pipelines in Microsoft Fabric 
    - Select "Remove this workspace"
 2. Delete your deployment pipeline
    
+
 # 👤 Author: Sefa Öztürk
 
-BT Stajyeri | Azure Veri Mühendisi devam ediyor
+IT Intern | Azure Data Engineer (Ongoing)
 
 📇 LinkedIn: https://www.linkedin.com/in/sefa-ozturk1972
+
+
+
